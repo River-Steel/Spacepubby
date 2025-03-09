@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/fallout/coyote/coyote"
+	"$bumpmap" 	"models/fallout/coyote/coyote_n"
+
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	
+	"$phong"	"1"
+	"$phongexponent"	"10"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.7"
+	"$phongfresnelranges"	"[1 3 8]"
+	"$phongexponenttexture" "models\shared\white.vtf"
+}

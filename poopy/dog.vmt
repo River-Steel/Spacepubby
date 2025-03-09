@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/fallout/dog/dog"
+	"$bumpmap" 	"models/fallout/dog/dog_n"
+	
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	
+	"$phong"	"1"
+	"$phongexponent"	"2"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"10"
+	"$phongfresnelranges"	"[1 3 8]"
+	"$phongexponenttexture" "models\shared\white.vtf"
+}
